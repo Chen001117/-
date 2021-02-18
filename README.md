@@ -27,7 +27,7 @@
     
     * 手部关键点如图
     
-    ![hand_landmarks](C:\Users\Owner\Downloads\final_project\hand_landmarks.png)
+    ![hand_landmarks](hand_landmarks.png)
     
     * 源代码来自: https://google.github.io/mediapipe/solutions/hands.html
 
